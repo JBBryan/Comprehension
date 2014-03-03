@@ -1,0 +1,131 @@
+body {
+	background-color: #F2F2E6
+}
+
+#header-bar {
+	height:60px;
+	border-bottom: 2px solid #E0E0DE;
+	background-color: white;
+	width:100%;
+}
+
+.logo {
+	height: 35px;
+	margin-top: 12px;
+	margin-left: 45px; 
+	float:left;
+
+}
+
+#spacer {
+	float:right;
+	width:45px;
+	height:60px;
+	background-color: white;
+}
+.header-button {
+	font-family: "ruda";
+	line-height: 60px;
+	vertical-align: middle;
+	float:right;
+	margin-left: 15px;
+	font-size: 12px;
+}
+
+.starline {
+	display: block;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	height:16px;
+}
+
+h1 {
+	font-family: "Enriqueta";
+	text-align: center;
+	margin-top: 60px;
+	font-size: 24px;
+	color: #48453C;
+}
+
+.images {
+	width:90%;
+	height: 150px;
+	margin: 0 auto 0 auto;
+	text-align: center;
+}
+
+.work-pic {
+	height: 150px;
+	margin-right: 5px;
+	margin-left: 5px;
+	width:200px;
+}
+
+.image-info {
+	width: 90%;
+	height:100px;
+	margin: 0 auto 0 auto;
+	text-align: center;
+}
+
+.whitebox {
+	height: 80px;
+	margin-right: 5px;
+	margin-left: 5px;
+	width:200px;
+	background-color: white;
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	max-width: 200px;
+	vertical-align: top;
+
+
+}
+
+
+
+.sustainable {
+	color: #D86F52;
+	font-size: 13px;
+	position:relative;
+	font-family: "Enriqueta"
+	
+
+}
+
+.whitebox div {
+	width:40px;
+	border-bottom: 1px solid #a1a1a1;
+	margin: 0 auto 0 auto;
+
+}
+
+.development {
+	font-family: "ruda";
+	font-size: 10px;
+	color: #A1A1A1;
+}
+
+
+
+.See-more {
+	background-color: #D86F52;
+	height: 50px;
+	width: 200px;
+	border-radius: 3px;
+	line-height: 50px;
+	vertical-align: middle;
+	color: white;
+	text-align: center;
+	margin: 50px auto 90px auto;
+	font-family: "Enriqueta";
+	font-size: 14px;
+}
+
+.button {
+	cursor: pointer; 
+	cursor: hand; 
+}
+
